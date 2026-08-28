@@ -1,0 +1,6 @@
+{
+  "name": "Secure VPN",
+  "description": "Production-ready Android VPN app with Android VpnService, server profiles, live traffic stats, connection duration, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
